@@ -1,5 +1,16 @@
 # Machine Learning Journey
 <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Journey-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Status-Continuously%20Learning-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge"> </p>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-red)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-End--to--End%20ML%20Projects-purple)
+
 Welcome to My ML Universe
 
 ## “Learning Machine Learning is not about memorizing algorithms — it’s about understanding patterns, data, and decision-making systems.”
@@ -223,7 +234,15 @@ Hyperparameter Tuning (GridSearch, RandomSearch, Optuna)
 <br>
 
 ## Tech Stack Used
-<p align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"> <img src="https://img.shields.io/badge/Seaborn-44A6C6?style=for-the-badge"> </p>
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-red)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-End--to--End%20ML%20Projects-purple)
 <br>
 
 ### My Learning Philosophy
