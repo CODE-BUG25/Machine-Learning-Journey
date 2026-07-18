@@ -1,0 +1,111 @@
+Feature,Importance
+num__cdi,1.7432370799257635
+num__mmi,0.7127867860700513
+num__magnitude,0.7031760593309277
+num__sig,0.5943280589849407
+cat__magType_mwb,0.14235640463842125
+num__Year,0.10362353682395098
+num__Years_Ago,0.10362353682395087
+cat__magType_mww,0.10175127126221883
+num__gap,0.09144061905068174
+cat__country_Antarctica,0.07732772124665466
+cat__Magnitude_Category_High,0.07317486940061341
+cat__Magnitude_Category_Severe,0.07317486940061313
+num__latitude,0.05680937941748726
+cat__country_Russia,0.05329705047308786
+num__depth,0.05318462255171574
+num__Day,0.05217167448017923
+num__Energy_Index,0.047897241879861135
+cat__country_Indonesia,0.04733567779336001
+num__Hour,0.043100246529861
+cat__country_Solomon Islands,0.04218589663014022
+cat__magType_mb,0.04218589663014022
+cat__continent_Asia,0.04198780093171228
+num__tsunami,0.04164068201914972
+num__Tsunami_Flag,0.04164068201914972
+cat__magType_mw,0.03578817899353741
+cat__country_Saudi Arabia,0.03578817899353741
+num__nst,0.0314913907300593
+cat__country_Papua New Guinea,0.030513718059535663
+num__longitude,0.025569030399789527
+num__dmin,0.024788147642941794
+cat__Depth_Category_Shallow,0.022862642701498626
+cat__country_Brazil,0.021963698770928033
+cat__continent_South America,0.021963698770928033
+cat__country_United States of America,0.02002410216078435
+cat__continent_North America,0.02002410216078435
+cat__magType_ms,0.01928617174122523
+cat__Depth_Category_Deep,0.01742943619048474
+num__Month,0.016147452128924655
+cat__magType_mwc,0.014921243998374245
+cat__Depth_Category_Intermediate,0.005433206511013727
+cat__country_Vanuatu,0.005433206511013727
+num__High_Alert,1.1102230246251565e-16
+cat__country_Venezuela,0.0
+cat__country_Pakistan,0.0
+cat__country_Panama,0.0
+cat__country_People's Republic of China,0.0
+cat__country_Peru,0.0
+cat__country_Philippines,0.0
+cat__country_New Zealand,0.0
+cat__country_Russian Federation (the),0.0
+cat__country_Turkmenistan,0.0
+cat__country_Turkiye,0.0
+cat__country_United Kingdom of Great Britain and Northern Ireland (the),0.0
+cat__country_South Georgia and the South Sandwich Islands,0.0
+cat__country_Taiwan,0.0
+cat__country_Tajikistan,0.0
+cat__country_Tanzania,0.0
+cat__country_Tonga,0.0
+cat__country_Trinidad and Tobago,0.0
+cat__country_Turkey,0.0
+cat__country_Nicaragua,0.0
+cat__alert_green,0.0
+cat__country_Nepal,0.0
+cat__country_Myanmar,0.0
+cat__country_Algeria,0.0
+cat__country_Afghanistan,0.0
+cat__continent_Oceania,0.0
+cat__continent_Europe,0.0
+cat__continent_Africa,0.0
+cat__magType_ml,0.0
+cat__magType_md,0.0
+cat__magType_Mi,0.0
+cat__net_uw,0.0
+cat__net_us,0.0
+cat__net_pt,0.0
+cat__net_official,0.0
+cat__net_nn,0.0
+cat__net_nc,0.0
+cat__net_hv,0.0
+cat__net_duputel,0.0
+cat__net_ci,0.0
+cat__net_at,0.0
+cat__net_ak,0.0
+cat__alert_yellow,0.0
+cat__alert_red,0.0
+cat__country_Argentina,0.0
+cat__country_Azerbaijan,0.0
+cat__country_Bolivia,0.0
+cat__country_Iceland,0.0
+cat__country_Mozambique,0.0
+cat__country_Mongolia,0.0
+cat__country_Mexico,0.0
+cat__alert_orange,0.0
+cat__country_Kyrgyzstan,0.0
+cat__country_Japan,0.0
+cat__country_Italy,0.0
+cat__country_Iran,0.0
+cat__country_India,0.0
+cat__country_Haiti,0.0
+cat__country_Botswana,0.0
+cat__country_Guatemala,0.0
+cat__country_Greece,0.0
+cat__country_Fiji,0.0
+cat__country_El Salvador,0.0
+cat__country_Ecuador,0.0
+cat__country_Costa Rica,0.0
+cat__country_Colombia,0.0
+cat__country_Chile,0.0
+cat__country_Canada,0.0
+cat__country_Martinique,0.0

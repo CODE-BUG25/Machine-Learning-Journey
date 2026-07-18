@@ -1,0 +1,111 @@
+Feature,Importance
+cat__alert_green,0.0
+cat__alert_orange,0.0
+cat__alert_red,0.0
+cat__alert_yellow,0.0
+cat__net_ak,0.0
+cat__net_at,0.0
+cat__net_ci,0.0
+cat__net_duputel,0.0
+cat__net_hv,0.0
+cat__net_nc,0.0
+cat__net_nn,0.0
+cat__net_official,0.0
+cat__net_pt,0.0
+cat__net_us,-0.0004999999999999894
+cat__net_uw,0.0
+cat__magType_Mi,0.0
+cat__magType_mb,0.0
+cat__magType_md,0.0
+cat__magType_ml,0.0
+cat__magType_ms,0.0
+cat__magType_mw,0.0005000000000000115
+cat__magType_mwb,-0.002999999999999936
+cat__magType_mwc,0.0005000000000000227
+cat__magType_mww,-0.0014999999999999569
+cat__continent_Africa,0.0
+cat__continent_Asia,-0.0029999999999999584
+cat__continent_Europe,0.0
+cat__continent_North America,0.0010000000000000009
+cat__continent_Oceania,0.0
+cat__continent_South America,0.0005000000000000115
+cat__country_Afghanistan,0.0
+cat__country_Algeria,0.0
+cat__country_Antarctica,0.0
+cat__country_Argentina,1.1102230246251566e-17
+cat__country_Azerbaijan,0.0
+cat__country_Bolivia,0.0
+cat__country_Botswana,0.0
+cat__country_Brazil,0.0
+cat__country_Canada,0.0
+cat__country_Chile,0.003500000000000003
+cat__country_Colombia,0.0
+cat__country_Costa Rica,0.0
+cat__country_Ecuador,0.0
+cat__country_El Salvador,0.0
+cat__country_Fiji,-0.0004999999999999894
+cat__country_Greece,0.0
+cat__country_Guatemala,0.0
+cat__country_Haiti,0.0
+cat__country_Iceland,0.0
+cat__country_India,0.0
+cat__country_Indonesia,0.005000000000000016
+cat__country_Iran,-0.0004999999999999894
+cat__country_Italy,0.0
+cat__country_Japan,0.004500000000000004
+cat__country_Kyrgyzstan,0.0
+cat__country_Martinique,0.0
+cat__country_Mexico,-0.0004999999999999894
+cat__country_Mongolia,0.0
+cat__country_Mozambique,0.0
+cat__country_Myanmar,0.0
+cat__country_Nepal,0.0
+cat__country_New Zealand,0.0
+cat__country_Nicaragua,0.0
+cat__country_Pakistan,-0.0004999999999999894
+cat__country_Panama,0.0
+cat__country_Papua New Guinea,-0.003999999999999937
+cat__country_People's Republic of China,0.0
+cat__country_Peru,0.0
+cat__country_Philippines,0.0
+cat__country_Russia,0.0
+cat__country_Russian Federation (the),0.0
+cat__country_Saudi Arabia,0.0
+cat__country_Solomon Islands,1.1102230246251566e-17
+cat__country_South Georgia and the South Sandwich Islands,0.0
+cat__country_Taiwan,0.0
+cat__country_Tajikistan,0.0
+cat__country_Tanzania,0.0
+cat__country_Tonga,0.0
+cat__country_Trinidad and Tobago,0.0
+cat__country_Turkey,0.0005000000000000004
+cat__country_Turkiye,0.0
+cat__country_Turkmenistan,0.0
+cat__country_United Kingdom of Great Britain and Northern Ireland (the),0.0
+cat__country_United States of America,0.0005000000000000004
+cat__country_Vanuatu,-0.004999999999999893
+cat__country_Venezuela,0.0
+cat__Magnitude_Category_High,1.1102230246251566e-17
+cat__Magnitude_Category_Severe,1.1102230246251566e-17
+cat__Depth_Category_Deep,0.004500000000000004
+cat__Depth_Category_Intermediate,-0.0004999999999999449
+cat__Depth_Category_Shallow,-0.002999999999999947
+num__magnitude,0.2270000000000001
+num__cdi,0.5225
+num__mmi,0.2040000000000001
+num__tsunami,-0.001499999999999968
+num__sig,0.09500000000000008
+num__nst,-0.0034999999999999476
+num__dmin,-0.005499999999999927
+num__gap,-0.001499999999999968
+num__depth,0.0050000000000000044
+num__latitude,-0.005999999999999906
+num__longitude,0.007000000000000006
+num__Year,-0.0029999999999999584
+num__Month,4.4408920985006264e-17
+num__Day,-0.004499999999999926
+num__Hour,-0.0009999999999999675
+num__Energy_Index,0.0
+num__Tsunami_Flag,-0.001499999999999968
+num__High_Alert,0.0
+num__Years_Ago,-0.0029999999999999584

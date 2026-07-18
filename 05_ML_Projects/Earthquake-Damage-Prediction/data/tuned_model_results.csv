@@ -1,0 +1,4 @@
+Model,Accuracy
+SVM,0.935
+Random Forest,0.855
+Extra Trees,0.835
